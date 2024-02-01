@@ -1,8 +1,7 @@
-- 👋 Hi, Harsimranjit Singh
+- 👋 Hi,I am Harsimranjit Singh
 - 👀 I’m interested in programming languages like JavaScript, PHP, Databases, and Java.
 - 🌱 I’m currently learning the gist of every Programming field: Web Programming, Java Development, Network Programming, Mobile Development, and Data Analytics.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...My Email:sing1993@algonquinlive.com
+- 📫 How to reach me:My Email:sing1993@algonquinlive.com
 - ⚡ Fun fact: ...
 
 <!---
